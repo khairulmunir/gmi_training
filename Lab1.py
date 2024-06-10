@@ -1,1 +1,1 @@
-print('Selamat Datang!')
+print('Selamat Datang ke GMI!')
