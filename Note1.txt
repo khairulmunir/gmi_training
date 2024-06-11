@@ -1,1 +1,6 @@
 This is only for text content. No codes here.
+
+Lab 1 = basic print function
+Lab 2 and 2a = if else function
+Lab 2b = while loop function
+Lab 2c = for loop
