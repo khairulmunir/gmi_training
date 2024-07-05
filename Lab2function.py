@@ -25,8 +25,9 @@
 def bmi(weight, height):
     bmi_Value  = weight/height**2
     return bmi_Value
-    
-valFun = bmi(61, 1.7) #result of bmi stored in variable valFun
+
+#valFun = bmi(61, 1.7) #Cara direct
+valFun = bmi((float(input("Berat:"))), (float(input("Tinggi dalam meter:")))) #result of bmi stored in variable valFun, cara lebih flex untuk user masukkan data
 
 #valFun += 2 #add 2 to valFun
 print(valFun)
